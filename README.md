@@ -10,7 +10,7 @@ Um guia feito no NotebookLM com o intuito de ajudar iniciantes a começarem seus
 
 ### Fontes Integradas e Por Que Confiar Nelas
 
-O acervo de fontes deste caderno combina 50 referências complementares entre academia, órgãos normativos, fabricantes e prática de mercado:
+O acervo de fontes deste notebook combina 50 referências complementares entre academias, autores, e fabricantes, além de práticas de mercado.
 
 1. **Literatura Acadêmica Consagrada:**
   * **Obras de Andrew S. Tanenbaum, Nick Feamster e David Wetherall** (*Redes de Computadores*) e de **James F. Kurose e Keith W. Ross** (*Redes de computadores e a Internet*).
