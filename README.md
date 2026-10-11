@@ -38,3 +38,9 @@ As diretrizes do notebook se dividem em dois níveis:
   * Respeitar e sugerir a ordem ideal dos módulos conceituais para que o aprendizado progrida com segurança.
   * Identificar e mitigar as principais dificuldades em temas complexos (como cálculo de sub-redes, funcionamento de protocolos de roteamento e padrões Wi-Fi).
   * Incentivar métodos eficazes de fixação teórica por meio de simulações, mapas mentais e laboratórios práticos de rede.
+
+---
+
+ ### Link do Notebook
+
+ https://notebook.google.com/notebook/5ef73207-c6b8-4b4b-8630-4fd7b5d2b981
