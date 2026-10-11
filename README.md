@@ -14,14 +14,14 @@ O acervo de fontes deste notebook combina 50 referências complementares entre a
 
 1. **Literatura Acadêmica Consagrada:**
   * **Obras de Andrew S. Tanenbaum, Nick Feamster e David Wetherall** (*Redes de Computadores*) e de **James F. Kurose e Keith W. Ross** (*Redes de computadores e a Internet*).
-  * *Por que confiar:* São os maiores manuais acadêmicos globais de redes, sendo consagrados e aplicados nas principais universidades.
+  * *Por que confio:* São livros bastante conhecidos na área de redes de computadores, utilizados como referência em cursos e estudos de nível superior.
 
 2. **Fabricantes Líderes e Plataformas de Nuvem:**
   * **Cisco Networking Academy (NetAcad)** e guias oficiais para o **CCNA 200-301**, ao lado de referências técnicas da **Microsoft Learn**, **AWS** e **IBM**.
-  * *Por que confiar:* A Cisco detém a maior presença histórica em equipamentos corporativos de comutação e roteamento, e as gigantes de computação em nuvem desenham as infraestruturas de rede virtual em hiperescala utilizadas no mercado global.
+  * *Por que confio:* A Cisco detém a maior presença histórica em equipamentos corporativos de comutação e roteamento, e as gigantes de computação em nuvem desenham as infraestruturas de rede virtual em hiperescala utilizadas no mercado global.
 3. **Cursos Especializados e Prática de Infraestrutura Multivendor:**
   * **Aulas do curso de infraestrutura do canal "Bora para Prática" (Prof. Robson Vaamonde)**, junto dos artigos da **Alura**, **Cursa** e do documento integrativo **"Panorama e Mapeamento Categorizado de Plataformas"**.
-  * *Por que confiar:* Mostra a prática junto das teorias de livros, mostrando equipamentos físicos reais de vários fabricantes (Cisco, MikroTik, Ubiquiti UniFi, Fortinet, TP-Link), demonstrando comandos, erros comuns de bancada e o uso de simuladores como Cisco Packet Tracer e GNS3.
+  * *Por que eu confio:* Mostra a prática junto das teorias de livros, deixando claro a veracidade das informações.
 
 ---
 
