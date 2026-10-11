@@ -1,31 +1,31 @@
 # guia-de-redes-de-computadores-para-iniciantes
 Um guia feito no NotebookLM com o intuito de ajudar iniciantes a começarem seus estudos em redes de computadores
 
-### 1\. Tema e Objetivo do Notebook
+### Tema e Objetivo do Notebook
 
-* **Tema:** Fundamentos teóricos, modelos conceituais e infraestrutura prática de redes de computadores, cobrindo desde a camada física e enlaces locais até a comutação (*switching*), o roteamento interdomínio e os protocolos da Internet.
-* **Objetivo:** Oferecer uma trilha de aprendizagem estruturada que capacite quem está começando do zero até níveis intermediários e preparatórios para certificações de mercado (como o Cisco CCNA)[5], conectando a teoria formal com a configuração real de equipamentos físicos e ambientes de laboratório.
+* **Tema:** Fundamentos teóricos, modelos conceituais e infraestrutura prática de redes de computadores, cobrindo desde a camada física e enlaces locais até a comutação, o roteamento interdomínio e os protocolos da Internet.
+* **Objetivo:** Oferecer um guia de aprendizagem estruturado que capacite quem está começando do zero até níveis intermediários e preparatórios para certificações de mercado (como o Cisco CCNA), juntando a teoria com a prática.
 
 ---
 
-### 2\. Fontes Integradas e Por Que Confiar Nelas
+### Fontes Integradas e Por Que Confiar Nelas
 
 O acervo de fontes deste caderno combina 50 referências complementares entre academia, órgãos normativos, fabricantes e prática de mercado:
 
 1. **Literatura Acadêmica Consagrada:**
-  * **Obras de Andrew S. Tanenbaum, Nick Feamster e David Wetherall** (*Redes de Computadores*, 6ª Edição) e de **James F. Kurose e Keith W. Ross** (*Computer Networking: A Top-Down Approach*, 8ª Edição).
-  * *Por que confiar:* São os maiores manuais acadêmicos globais de redes, revisados por pares e adotados como padrão de formação nas principais universidades do mundo para entender pilhas de protocolos, arquiteturas OSI e TCP/IP.
+  * **Obras de Andrew S. Tanenbaum, Nick Feamster e David Wetherall** (*Redes de Computadores*) e de **James F. Kurose e Keith W. Ross** (*Redes de computadores e a Internet*).
+  * *Por que confiar:* São os maiores manuais acadêmicos globais de redes, sendo consagrados e aplicados nas principais universidades.
 
 2. **Fabricantes Líderes e Plataformas de Nuvem:**
   * **Cisco Networking Academy (NetAcad)** e guias oficiais para o **CCNA 200-301**, ao lado de referências técnicas da **Microsoft Learn**, **AWS** e **IBM**.
   * *Por que confiar:* A Cisco detém a maior presença histórica em equipamentos corporativos de comutação e roteamento, e as gigantes de computação em nuvem desenham as infraestruturas de rede virtual em hiperescala utilizadas no mercado global.
 3. **Cursos Especializados e Prática de Infraestrutura Multivendor:**
-  * **Aulas do curso de infraestrutura do canal "Bora para Prática" (Prof. Robson Vaamonde)**, aliadas a artigos da **Alura**, **Cursa** e o documento integrativo **"Panorama e Mapeamento Categorizado de Plataformas"**.
-  * *Por que confiar:* Esse grupo traz o contraponto prático às teorias de livros, mostrando equipamentos físicos reais de múltiplos fabricantes (Cisco, MikroTik, Ubiquiti UniFi, Fortinet, TP-Link)[27], demonstrando comandos, erros comuns de bancada e o uso de simuladores como Cisco Packet Tracer e GNS3.
+  * **Aulas do curso de infraestrutura do canal "Bora para Prática" (Prof. Robson Vaamonde)**, junto dos artigos da **Alura**, **Cursa** e do documento integrativo **"Panorama e Mapeamento Categorizado de Plataformas"**.
+  * *Por que confiar:* Mostra a prática junto das teorias de livros, mostrando equipamentos físicos reais de vários fabricantes (Cisco, MikroTik, Ubiquiti UniFi, Fortinet, TP-Link), demonstrando comandos, erros comuns de bancada e o uso de simuladores como Cisco Packet Tracer e GNS3.
 
 ---
 
-### 3\. Diretriz de Comportamento do Notebook
+### Diretriz de Comportamento do Notebook
 
 As diretrizes que regem este ambiente dividem-se em dois níveis complementares:
 
