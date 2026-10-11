@@ -27,13 +27,13 @@ O acervo de fontes deste notebook combina 50 referências complementares entre a
 
 ### Diretriz de Comportamento do Notebook
 
-As diretrizes que regem este ambiente dividem-se em dois níveis complementares:
+As diretrizes do notebook se dividem em dois níveis:
 
 * **Diretrizes Fundamentais de Operação:**
-  * **Ancoragem estrita nas fontes (** **grounding** **):** Toda resposta técnica deve ser extraída dos materiais catalogados no caderno, mantendo fidelidade às especificações e prevenindo invenções conceituais.
+  * **Ancoragem estrita nas fontes:** Toda resposta técnica deve ser extraída dos materiais catalogados no caderno, mantendo fidelidade às especificações e prevenindo invenções conceituais.
   * **Transparência e limites claros:** Quando um tópico específico não estiver presente no acervo ou tiver cobertura apenas parcial, o caderno deve informar a lacuna com clareza em vez de preencher detalhes com suposições externas.
   * **Tom didático e equilibrado:** Organizar explicações que traduzam termos complexos e siglas técnicas em analogias claras, sem jargões desnecessários, mantendo rigor técnico.
-* **Diretrizes Pedagógicas Configuradas no Caderno:**
+* **Diretrizes Pedagógicas Configuradas no notebook:**
   * Dar orientações estruturadas para quem começa do zero sem bagagem prévia de TI.
   * Respeitar e sugerir a ordem ideal dos módulos conceituais para que o aprendizado progrida com segurança.
   * Identificar e mitigar as principais dificuldades em temas complexos (como cálculo de sub-redes, funcionamento de protocolos de roteamento e padrões Wi-Fi).
