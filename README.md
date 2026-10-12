@@ -10,17 +10,17 @@ Um guia feito no NotebookLM com o intuito de ajudar iniciantes a começarem seus
 
 ### Fontes Integradas e Por Que Confiar Nelas
 
-O material deste notebook reúne 50 referências de livros, autores, fabricantes e plataformas de ensino, além de conteúdos voltados à prática profissional.
+O material deste notebook reúne referências de livros, autores, fabricantes e plataformas de ensino, além de conteúdos voltados à prática profissional.
 
 1. **Literatura Acadêmica Consagrada:**
-  * **Obras de Andrew S. Tanenbaum, Nick Feamster e David Wetherall** (*Redes de Computadores*) e de **James F. Kurose e Keith W. Ross** (*Redes de computadores e a Internet*).
-  * *Por que confio:* São livros bastante conhecidos na área de redes de computadores, utilizados como referência em cursos e estudos de nível superior.
+  * **Obra de Andrew S. Tanenbaum, Nick Feamster e David Wetherall** (*Redes de Computadores*).
+  * *Por que confio:* É um livro bastante conhecido na área de redes de computadores, utilizado como referência em cursos e estudos de nível superior.
 
 2. **Fabricantes Líderes e Plataformas de Nuvem:**
-  * **Cisco Networking Academy (NetAcad)** e guias oficiais para o **CCNA 200-301**, ao lado de referências técnicas da **Microsoft Learn**, **AWS** e **IBM**.
-  * *Por que confio:* A Cisco oferece materiais de estudo e documentação técnica relevantes para quem deseja aprender redes e se preparar para a certificação CCNA. Microsoft, AWS e IBM complementam o conteúdo com conceitos relacionados a redes em ambientes de nuvem.
+  * **Cisco Networking Academy (NetAcad)**, ao lado de referências técnicas da **Microsoft Learn** e **AWS**.
+  * *Por que confio:* A Cisco oferece materiais de estudo e documentação técnica relevantes para quem deseja aprender redes e se preparar para a certificação CCNA. Microsoft e AWS complementam o conteúdo com conceitos relacionados a redes em ambientes de nuvem.
 3. **Cursos Especializados e Prática de Infraestrutura Multivendor:**
-  * **Aulas do curso de infraestrutura do canal "Bora para Prática" (Prof. Robson Vaamonde)**, junto dos artigos da **Alura**, **Cursa** e do documento integrativo **"Panorama e Mapeamento Categorizado de Plataformas"**.
+  * **Aulas do curso de infraestrutura do canal "Bora para Prática" (Prof. Robson Vaamonde).**
   * *Por que eu confio:* Essas fontes complementam a teoria com exemplos práticos, ajudando a compreender como os conceitos de redes são aplicados no dia a dia.
 
 ---
